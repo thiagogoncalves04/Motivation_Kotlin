@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Motivations</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="salvar">Salvar</string>
+    <string name="informe_seu_nome">Informe seu nome</string>
+    <string name="informe_nome">Por favor, informe seu nome!</string>
+</resources>
